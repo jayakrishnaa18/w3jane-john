@@ -312,7 +312,7 @@ main>h2{
     }
         
 }
-@media screen and (max-width:460px){
+@media screen and (max-width:425px){
     .footer2{
         display: none;
     }
