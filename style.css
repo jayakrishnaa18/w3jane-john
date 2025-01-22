@@ -317,3 +317,11 @@ main>h2{
         display: none;
     }
 }
+@media screen and (max-width:350px) {
+    .bottomdown{
+        display: flex;
+        flex-direction: column;
+    }
+
+    
+}
